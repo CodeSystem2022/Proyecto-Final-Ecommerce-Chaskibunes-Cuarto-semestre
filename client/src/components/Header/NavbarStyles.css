@@ -1,0 +1,228 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.navbar-custom {
+  background-color: #343434;
+  color: white;
+}
+
+
+/* Estilos para los enlaces en el Navbar */
+.navbar-custom .nav-link {
+  color: white;
+  font-size: 18px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.2s ease-in-out;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.navbar-custom .nav-link:hover {
+  color:  gray;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+}
+
+
+.navbar-custom .navbar-brand {
+  padding-right: 20px; 
+}
+
+.navbar-custom .navbar-nav {
+  width: 100%; 
+  justify-content: flex-end; 
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  font-size: 17px;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* Estilos para el ícono del carrito */
+.cart-icon svg {
+  margin-right: 5px;
+}
+
+/* Estilos para el contador */
+.cart-icon {
+  display: flex;
+  text-align: center;
+  position: relative;
+  align-items: center;
+  color: white;
+  padding: 2px 8px;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+}
+@media (max-width: 991px){
+  .cart-icon {
+   padding: 10px 15px;
+  }
+}
+.cart-icon-img {
+  width: 25%; 
+  margin-right: 8px; 
+}
+.cart-icon:hover{
+  color: gray;
+  transition: all .3s;
+}
+.cart-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 20px;
+}
+.remove-icon {
+  cursor: pointer;
+}
+.quantity{
+  margin-bottom: 10px;
+}
+.quantity span{
+  margin: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+.quantity button {
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 20px;
+}
+.quantity button:hover,
+.quantity button:active  {
+  background-color: gray;
+  color: black;
+  transition: all .4s ease-in-out;
+}
+/* Estilos para el botón */
+.nav-content-model .buy-button {
+  font-size: 16px;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: rgb(23, 156, 30);
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.nav-content-model .buy-button:hover,
+.nav-content-model .buy-button:active {
+  background-color: green;
+  color: black;
+  transition: all .4s ease-in-out;
+}
+
+.nav-content-model .buy-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.nav-content-model .clean-button {
+  font-size: 16px;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: rgb(194, 39, 39);
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.nav-content-model .clean-button:hover,
+.nav-content-model .clean-button:active {
+  background-color: red;
+  color: black;
+  transition: all .4s ease-in-out;
+}
+
+.nav-content-model .clean-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.nav-content-model .clear-button {
+  font-size: 16px;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: black;
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.nav-content-model .clear-button:hover,
+.nav-content-model .clear-button:active {
+  background-color: gray;
+  color: black;
+  transition: all .4s ease-in-out;
+}
+
+.nav-content-model .clear-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+.modal-title {
+  font-family: 'Poppins', sans-serif;
+}
+.cart-item-details h5{
+  font-family: 'Poppins', sans-serif;
+}
+.total-price {
+  border-top: var(--bs-modal-footer-border-width) solid var(--bs-modal-footer-border-color);
+}
+.total-price h5{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 10px;
+}
+
+.navbar-toggler {
+  border: none;
+  box-shadow: none;
+}
+button:focus:not(:focus-visible) {
+  box-shadow: none;
+}
+
+.modal-footer-second .close-button {
+  font-size: 16px;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: black;
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.modal-footer-second .close-button:hover,
+.modal-footer-second .close-button:active {
+  background-color: gray;
+  color: black;
+  transition: all .4s ease-in-out;
+}
+.modal-footer-second .close-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+.profile:hover{
+  background-color: gray;
+}
