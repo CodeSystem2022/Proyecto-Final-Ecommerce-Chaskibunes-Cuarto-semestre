@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.about-container {
+  background-color: gray;
+  padding: 60px;
+  border-radius: 20px;
+  margin-top: 140px;
+  margin-bottom: 110px;
+  text-align: justify;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  font-family: "Poppins", sans-serif;
+}
+
+.brand-name {
+  color: black;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+
+.description {
+  font-size: 18px;
+  color: black;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+}

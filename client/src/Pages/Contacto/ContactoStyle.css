@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.contact-container {
+  margin-top: 40px;
+  padding: 20px;
+  border: none;
+  color: black;
+  background-color: gray;
+  margin-top: 110px;
+  margin-bottom: 110px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 20px;
+}
+.form {
+  color: black;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  background-color: gray;
+
+}
+
+.form-group {
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.form-label {
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+/* Estilo para el botón de Pagar */
+.btn-form .btn-primary .button-submit  {
+  padding: 10px 20px;
+  font-size: 16px;
+  padding: 8px 16px;
+  margin: 15px auto;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: black;
+  color: white;
+  border: none;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.btn-form .btn-primary .button-submit:hover,
+.btn-form .btn-primary .button-submit:active,
+.btn-form .btn-primary .button-submit:focus {
+  background-color: rgb(85, 85, 85);
+  color: black;
+  font-weight: 500;
+  transition: all 0.4s ease-in-out;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  text-decoration: none;
+}
+/*Btn modal footer*/
+.btn-primary {
+  padding: 10px 20px;
+  font-size: 16px;
+  padding: 8px 16px;
+  margin: 15px auto;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: black;
+  color: white;
+  border: none;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+.btn-footer-modal .btn-primary:hover,
+.btn-footer-modal .btn-primary:active,
+.btn-footer-modal .btn-primary:focus {
+  background-color: rgb(85, 85, 85);
+  color: black;
+  font-weight: 500;
+  transition: all 0.4s ease-in-out;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  text-decoration: none;
+}
