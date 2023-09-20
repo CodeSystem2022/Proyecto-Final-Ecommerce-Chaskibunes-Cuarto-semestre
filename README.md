@@ -9,6 +9,11 @@
 - Se va a poder finalizar la compra que si en caso de que no estes autenticado te va a mandar a que inicies sesión y si estas autenticado entras a la pagina de checkout donde podes finalizar tu compra con los datos correspondientes y luego de realizar la compra te llevara a la pagina de confirmación
 </strong>
 
+<br><strong>
+Aquí esta el enlace a la wiki del brief para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Brief</strong>
+<br><strong>
+
+
 # Adjuntamos links para poder visualizar el video
 
 ## `Integrantes`
