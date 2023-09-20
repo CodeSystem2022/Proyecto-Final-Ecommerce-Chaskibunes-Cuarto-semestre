@@ -12,6 +12,25 @@
 <br><strong>
 Aquí esta el enlace a la wiki del brief para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Brief</strong>
 <br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki del Servidor para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Server</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de la base de datos para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Database</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de los modelos para poder almacenar la información del usuario, la orden de compra y los productos en la base de datos, para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/models</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de los controladores donde manejamos las rutas del usuario para que pueda registrarse, logearse, que tome el user registrado, para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Controladores</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de el middlawere que nos permite generar un token para el usuario una vez se logea y nos permite procesar la compra, para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Middlawere</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario poder cambiar el nombre, email y la contraseña, para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/routes-servidor</strong>
+<br><strong>
+
 
 
 # Adjuntamos links para poder visualizar el video
