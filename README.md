@@ -30,7 +30,9 @@ Aquí esta el enlace a la wiki de el middlawere que nos permite generar un token
 <br><strong>
 Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario poder cambiar el nombre, email y la contraseña, para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/routes-servidor</strong>
 <br><strong>
-
+<br><strong>
+Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario poder cambiar el nombre, email y la contraseña, para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/dependencias-del-lado-del-servidor-y-del-lado-del-cliente</strong>
+<br><strong>
 
 
 # Adjuntamos links para poder visualizar el video
