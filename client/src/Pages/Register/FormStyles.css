@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+.form {
+  background-color: #fff;
+  display: block;
+  padding: 1rem;
+  max-width: 350px;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  font-family: "Poppins", sans-serif;
+
+}
+.main-content {
+  margin-top: 60px;
+}
+.form-title {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+  text-align: center;
+  color: #000;
+  font-family: "Poppins", sans-serif;
+
+}
+
+.input-container {
+  position: relative;
+}
+.justify-content-center {
+  margin: 42.25px;
+}
+.input-container input, .form button {
+  outline: none;
+  border: 1px solid #e5e7eb;
+  margin: 8px 0;
+}
+
+.input-container input {
+  background-color: #fff;
+  padding: 1rem;
+  padding-right: 3rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  width: 300px;
+  border-radius: 0.5rem;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.signup-link{
+  color: black;
+
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.signup-link a{
+  color: black;
+  font-weight: bolder;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.signup-link a:hover{
+  color: rgb(59, 59, 59);
+}
+.form .btn-primary {
+  padding: 10px 20px;
+  font-size: 16px;
+  padding: 8px 16px;
+  margin: 15px auto;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: black;
+  color: white;
+  border: none;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+}
+
+.form .btn-primary:hover,
+.form .btn-primary:active {
+  background-color: rgb(85, 85, 85);
+  color: black;
+  outline: none;
+  border: none;
+}
+
+.form .btn-primary:focus{
+  outline: none;
+  box-shadow: none;
+  text-decoration: none;
+}

@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+
+.pay-container {
+  margin-top: 40px;
+  padding: 20px;
+  border: 1px s;
+  border-radius: 20px;
+  color: black;
+  background-color: gray;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  margin-top: 110px;
+  margin-bottom: 110px;
+
+}
+.div-form .btn-form{
+  color: black;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+/* Estilo para el botón de Pagar */
+.btn-form .button-submit  {
+  padding: 10px 20px;
+  font-size: 16px;
+  padding: 8px 16px;
+  margin: 15px auto;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: black;
+  color: white;
+  border: none;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.btn-form .button-submit:hover,
+.btn-form .button-submit:active,
+.btn-form .button-submit:focus {
+  background-color: rgb(85, 85, 85);
+  color: black;
+  font-weight: 500;
+  transition: all 0.4s ease-in-out;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  text-decoration: none;
+}
+/* Estilo para la sección de información de la tarjeta */
+.form-group .card-element {
+  margin-bottom: 40px; /* Espaciado inferior */
+}
+.card{
+    border-radius: 20px;
+    font-weight: bold;
+    color: black;
+}
