@@ -60,12 +60,12 @@ const cartSlice = createSlice({
 export const { addToCart, removeFromCart, adjustQuantity, clearCart, closeCart } =
   cartSlice.actions;
 
-// Agrega la función getTotalItemsInCart aquí
+// Esto es para calcular el total deproductos
 export const getTotalItemsInCart = (cart) => {
   return cart.reduce((total, product) => total + product.quantity, 0);
 };
 
-// Agrega la función getTotalPrice aquí
+// Esto es para calcular el precio total del carrito
 export const getTotalPrice = (cart) => {
   return cart.reduce(
     (total, product) => total + product.price * product.quantity,
