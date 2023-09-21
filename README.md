@@ -62,6 +62,16 @@ Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario p
 Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario poder cambiar el nombre, email y la contraseña, para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/dependencias-del-lado-del-servidor-y-del-lado-del-cliente</strong>
 <br><strong>
 
+# Para poder visualizar el proyecto usar los siguientes comandos:
+
+### ** Dentro de client y server **
+** npm install **
+### ** Luego de que se instalen las dependencias, deberan en la consola abrir las dos carpetas **
+** cd client **
+** cd server **
+### ** Para hacer que levante el servidor y el cliente tiene que poner el siguiente comando **
+** npm run dev **
+
 
 # Adjuntamos links para poder visualizar el video
 
