@@ -14,7 +14,9 @@
 <br><strong>
 Aquí esta el enlace a la wiki del brief para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Brief</strong>
 <br><strong>
-### **Client**
+
+
+# Client
 <br><strong>
 Aquí esta el enlace a la wiki de la carpeta layout, header y footer dentro de component con sus archivos correspondientes en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Crear-la-carpeta-layout,-header-y-footer-con-sus-archivos-correspondientes-dentro-de-components</strong>
 <br><strong>
@@ -37,7 +39,7 @@ Aquí esta el enlace a la wiki de la pagina de not found en pages en client para
 Aquí esta el enlace a la wiki de la pagina de not found en pages en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Manejo-de-los-estados-cart,-filter,-user-y-store-y-las-rutas-de-las-paginas</strong>
 <br><strong>
 
-### **Server**
+# Server
 <br><strong>
 Aquí esta el enlace a la wiki del Servidor para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Server</strong>
 <br><strong>
