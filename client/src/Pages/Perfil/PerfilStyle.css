@@ -1,4 +1,11 @@
-/* Estilo para el botón de Pagar */
+.main-content {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Estilo para el botón */
 .btn-form .button-submit {
   padding: 10px 20px;
   font-size: 16px;
