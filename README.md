@@ -9,9 +9,35 @@
 - Se va a poder finalizar la compra que si en caso de que no estes autenticado te va a mandar a que inicies sesión y si estas autenticado entras a la pagina de checkout donde podes finalizar tu compra con los datos correspondientes y luego de realizar la compra te llevara a la pagina de confirmación
 </strong>
 
+
+
 <br><strong>
 Aquí esta el enlace a la wiki del brief para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Brief</strong>
 <br><strong>
+### **Client**
+<br><strong>
+Aquí esta el enlace a la wiki de la carpeta layout, header y footer dentro de component con sus archivos correspondientes en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Crear-la-carpeta-layout,-header-y-footer-con-sus-archivos-correspondientes-dentro-de-components</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de la carpeta Auth, Filter, Hero, Productos, Sobre Nostros dentro de component con sus archivos correspondientes en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Crear-las-carpetas-de-Auth,-Filter,-Hero,-Productos,-Sobre-Nostros-con-sus-archivos-correspondientes-dentro-de-components</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de la carpeta config.js dentro de src con su archivo correspondiente en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Crear-archivo-js-dentro-de-config-para-guardar-la-llave-publica-de-stripes</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de las paginas de inicio, about, productos, contactos en pages en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Crear-las-siguientes-paginas-de-inicio,-about,-productos,-contactos</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de las paginas de inicio, about, productos, contactos en pages en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Crear-las-siguientes-paginas-login,-register,-perfil,-checkout-page-y-confirmaci%C3%B3n</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de la pagina de not found en pages en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Crear-las-siguientes-pagina-de-not-found</strong>
+<br><strong>
+<br><strong>
+Aquí esta el enlace a la wiki de la pagina de not found en pages en client para el desarrollo del ecommerce: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Manejo-de-los-estados-cart,-filter,-user-y-store-y-las-rutas-de-las-paginas</strong>
+<br><strong>
+
+### **Server**
 <br><strong>
 Aquí esta el enlace a la wiki del Servidor para el desarrollo del ecommerce por la parte del backend: https://github.com/CodeSystem2022/Proyecto-Final-Ecommerce-Chaskibunes-Cuarto-semestre/wiki/Server</strong>
 <br><strong>
