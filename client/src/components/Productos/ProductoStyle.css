@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  background-color: #929292;
+}
+.py-5 .text-center {
+  color: black;
+}
+/* Estilos para las imágenes de los productos */
+.product-image {
+  width: 100%;
+  height: 325px;
+  object-fit: cover;
+  border-radius: 8px 8px 0 0;
+}
+
+/* Estilos para las cards de productos */
+.product-card {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgb(170, 169, 169);
+  transition: box-shadow 0.3s;
+}
+
+.product-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.product-card .card-body {
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.product-card .card-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  text-align: center;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+.product-card .card-text {
+  font-size: 14px;
+  color: black;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+
+/* Estilos para los botones */
+.card-body a {
+  text-decoration: none;
+}
+.product-card .btn {
+  font-size: 16px;
+  padding: 8px 16px;
+  margin: 8px auto;
+  display: block;
+  background-color: transparent;
+  border: none;
+  border-radius: 999px;
+  background-color: black;
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+}
+
+.product-card .btn:hover {
+  background-color: rgb(85, 85, 85);
+  color: black;
+  transition: all 0.4s ease-in-out;
+}
+
+.product-card .btn:focus {
+  outline: none;
+  box-shadow: none;
+  text-decoration: none;
+}
+.row {
+  align-items: center;
+  justify-content: center;
+}
+
+/* Toast Mensaje */
+.Toastify__toast-container {
+  z-index: 9999;
+}
+
+.Toastify__toast {
+  font-family: Arial, sans-serif;
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-size: 16px;
+}
+
+/* Toast confirmado */
+.Toastify__toast--success {
+  background-color: #4caf50;
+  color: #ffffff;
+}
+
+/* Toast Error */
+.Toastify__toast--error {
+  background-color: #f44336;
+  color: #ffffff;
+}
+
+/* Toast warning */
+.Toastify__toast--warning {
+  background-color: #ff9800;
+  color: #ffffff;
+}
+
+/* Información toast */
+.Toastify__toast--info {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+/* Cerrar boton de toast */
+.Toastify__close-button {
+  color: inherit;
+}
+
+/* Ajuste de posición para las notificaciones en top right */
+.Toastify__toast--top-right {
+  top: 12px;
+  right: 12px;
+}
+
+/* Animación para que se vea el toast y se esconda */
+.Toastify__flip-enter, .Toastify__flip-exit {
+  transform: translateY(100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.Toastify__flip-enter-active, .Toastify__flip-exit-active {
+  transform: translateY(0);
+  opacity: 1;
+}

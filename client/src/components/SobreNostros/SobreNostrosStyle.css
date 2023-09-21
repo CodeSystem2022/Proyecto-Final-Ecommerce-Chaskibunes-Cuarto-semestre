@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 40px;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+}
