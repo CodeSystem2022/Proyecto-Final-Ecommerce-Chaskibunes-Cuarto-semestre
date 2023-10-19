@@ -74,6 +74,7 @@ Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario p
 
 
 # Adjuntamos links para poder visualizar el video
+https://drive.google.com/file/d/1qUECyWt89i_Aj12wWJThs-Vrg10bF1hk/view?usp=sharing
 
 ## `Integrantes`
 
