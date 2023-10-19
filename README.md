@@ -76,6 +76,9 @@ Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario p
 # Adjuntamos links para poder visualizar el video
 https://drive.google.com/file/d/1qUECyWt89i_Aj12wWJThs-Vrg10bF1hk/view?usp=sharing
 
+# Video 7 minutos donde se realiza el test del proyecto
+https://drive.google.com/file/d/1fp40R1ic1xlHs1f3ISAIyikTXlqVSE5i/view?usp=sharing
+
 ## `Integrantes`
 
 :large_orange_diamond:  Gabriel Muñoz
