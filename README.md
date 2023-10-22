@@ -64,13 +64,15 @@ Aquí esta el enlace a la wiki de la ruta de profile que le permite al usuario p
 
 # Para poder visualizar el proyecto usar los siguientes comandos:
 
-### **Dentro de client y server**
-**npm install**
-### **Luego de que se instalen las dependencias, deberan en la consola abrir las dos carpetas**
-**cd client**
-**cd server**
-### **Para hacer que levante el servidor y el cliente tiene que poner el siguiente comando**
-**npm run dev**
+### **Primero deben abrir dos consolas seleccionar con los siguientes comandos para entrar a las mismas:**
+``` cd client ```
+``` cd server ```
+
+### **Luego en la cada una de las consolas ejecutamos el siguiente comando para instalar las dependencias:**
+``` npm install ```
+
+### **Una vez instaladas las dependencias para levantar tanto el cliente como el servidor, en cada una de las consolas abiertas ejecutar el soguiente comando:** 
+``` npm run dev ```
 
 
 # Adjuntamos links para poder visualizar el video
